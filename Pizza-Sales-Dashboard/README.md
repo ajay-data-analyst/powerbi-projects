@@ -1,7 +1,10 @@
 ## 🍕 Pizza Sales Dashboard
 
+![Dashboard Screenshot](dashboard(3).png)
+
 ### 🔍 Overview
-Dashboard created to analyze pizza sales data and customer ordering behavior.
+Dashboard created to analyze pizza sales and customer behavior.
+
 
 ### 📊 Key KPIs
 - Total Revenue
