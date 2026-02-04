@@ -1,7 +1,9 @@
 ## 📊 Sales Analysis Dashboard
 
+![Dashboard Screenshot](dashboard.png)
+
 ### 🔍 Overview
-Comprehensive sales dashboard to monitor revenue, profit, and regional performance.
+Comprehensive dashboard to monitor revenue, profit, and regional sales.
 
 ### 📊 Key KPIs
 - Total Revenue
