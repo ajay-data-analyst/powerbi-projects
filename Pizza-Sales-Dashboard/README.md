@@ -1,6 +1,6 @@
 ## 🍕 Pizza Sales Dashboard
 
-![Dashboard Screenshot](dashboard(3).png)
+![Dashboard Screenshot](dashboard.png)
 
 ### 🔍 Overview
 Dashboard created to analyze pizza sales and customer behavior.
