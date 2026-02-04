@@ -1,6 +1,6 @@
 ## 📈 Classic Models Sales Dashboard
 
-![Dashboard Screenshot](dashboard(2).png)
+![Dashboard Screenshot](dashboard.png)
 ### 🔍 Overview
 This Power BI dashboard analyzes sales performance of Classic Models company.
 
