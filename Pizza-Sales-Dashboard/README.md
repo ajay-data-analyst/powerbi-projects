@@ -5,7 +5,6 @@
 ### 🔍 Overview
 Dashboard created to analyze pizza sales and customer behavior.
 
-
 ### 📊 Key KPIs
 - Total Revenue
 - Total Orders
