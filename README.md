@@ -7,7 +7,7 @@ This repository contains interactive dashboards created for data analysis, repor
 - Classic Models Sales Dashboard
 - Pizza Sales Dashboard
 - Sales Analysis Dashboard
-
+- HR-Analytics-PowerBI-Dashboard
 ## 🛠 Skills & Tools
 - Power BI
 - DAX
