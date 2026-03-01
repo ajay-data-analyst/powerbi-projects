@@ -22,4 +22,4 @@ This repository contains interactive dashboards created for data analysis, repor
 - Job applications
 
 📫 Connect with me on LinkedIn
-
+www.linkedin.com/in/ajay-thakur-56a853398
