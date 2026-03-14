@@ -1,6 +1,5 @@
-# 📊 Power BI Portfolio – Ajay Thakur
-
-Welcome to my Power BI project portfolio.  
+# 📊 Power BI dashboards – Ajay Thakur
+  
 This repository contains interactive dashboards created for data analysis, reporting, and business insights.
 
 ## 🚀 Projects
@@ -17,9 +16,9 @@ This repository contains interactive dashboards created for data analysis, repor
 - Dashboard Design
 
 ## 🎯 Purpose
-- Portfolio showcase
+practice projects
 - Freelancing projects
-- Job applications
+
 
 📫 Connect with me on LinkedIn
-www.linkedin.com/in/ajay-thakur-56a853398
+www.linkedin.com/in/ajay6469
